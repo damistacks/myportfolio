@@ -55,6 +55,11 @@
         height: fit-content;
         margin-bottom: 2rem;
     }
+
+    .contact-info-upper-container {
+        flex-direction: column;
+    }
+    
     .contact-info-container {
         margin: 0 0.5rem;
     }
