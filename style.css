@@ -463,6 +463,7 @@ section {
     margin: 2rem auto;
     padding: 0.5rem;
     width: 100%;
+    max-width: 600px;
 }
 
 .contact-info-container {
