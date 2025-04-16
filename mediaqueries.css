@@ -45,7 +45,7 @@
         height: 40vh;
     }
     #hero {
-        height: 83vh;
+        height: 70vh;
         margin-bottom: 2rem;
     }
     article {
@@ -87,10 +87,6 @@
         width: auto;
         height: auto;
         justify-content: center;
-    }
-
-    #about {
-        margin-top: 0;
     }
 
     .avatar {
