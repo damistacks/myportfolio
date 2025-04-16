@@ -86,6 +86,7 @@
     .img-600px {
         width: 200px;
         height: 200px;
+        margin-bottom: 0;
     }
     
     .section_text_p2 {
