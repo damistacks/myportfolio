@@ -89,7 +89,11 @@
         justify-content: center;
     }
 
-    .img-600px {
+    #hero {
+        margin-bottom: 0
+    }
+
+    .avatar {
         width: 200px;
         height: 200px;
         margin-bottom: 0;
