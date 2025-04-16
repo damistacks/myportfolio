@@ -79,7 +79,7 @@
     }
     .section_pic-container {
         width: auto;
-        height: 46vh;
+        height: auto;
         justify-content: center;
     }
 
