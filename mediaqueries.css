@@ -83,6 +83,12 @@
         justify-content: center;
     }
 
+    #hero > .section_pic-container {
+        width: auto;
+        height: auto;
+        justify-content: center;
+    }
+
     .img-600px {
         width: 200px;
         height: 200px;
