@@ -17,7 +17,7 @@ Demo: https://logicaldami.github.io/myportfolio/
   * JavaScript
 
 
-## Authors
+## Author
 
   - **Oluwasegun Idowu**
     [logicaldami](https://github.com/logicaldami/)
