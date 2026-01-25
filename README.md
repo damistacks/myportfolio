@@ -20,7 +20,7 @@ Demo: https://damistacks.github.io/myportfolio/
 ## Author
 
   - **Oluwasegun Idowu**
-    [logicaldami](https://github.com/logicaldami/)
+    [damistacks](https://github.com/damistacks/)
 
 
 ## License
