@@ -4,7 +4,7 @@ I built my portfolio website from scratch and I used pure CSS to make it respons
 
 ## Deployment
 
-Demo: https://logicaldami.github.io/myportfolio/
+Demo: https://damistacks.github.io/myportfolio/
 
 ![nyportfolio](./capture.png)
 
