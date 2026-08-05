@@ -244,12 +244,12 @@ nav {
 }
 
 .toggle-thumb::before {
-  content: "🌙";
+  content: "☀️";
   font-size: 11px;
 }
 
 [data-theme="dark"] .toggle-thumb::before {
-  content: "☀️";
+  content: "🌙";
 }
 
 /* =====================
